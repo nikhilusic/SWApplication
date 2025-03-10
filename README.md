@@ -1,1 +1,1 @@
-# SWApplication
+# SWApplications
